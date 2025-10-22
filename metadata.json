@@ -1,0 +1,5 @@
+{
+  "name": "ImovelnaWeb.com",
+  "description": "A modern web application for listing and searching real estate properties, inspired by Imóvel na Web. It includes a comprehensive admin panel for managing properties, brokers, and owners.",
+  "requestFramePermissions": []
+}
